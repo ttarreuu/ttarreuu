@@ -1,28 +1,14 @@
-# 👋 Hi, I'm Tara Hanifan Faza!
-
-📍 Jakarta, Indonesia
-
 ![Header](public/github-header-image.png)
 
 ---
 
-I'm a **Motivated Application Developer** with hands-on experience in **mobile development using React Native**. Passionate about creating efficient, user-friendly applications with a strong interest in **mobile and IoT systems**. Skilled in the full development lifecycle, from ideation to deployment, and thrive in collaborative team settings.
-
----
-## 🧠 Technical Skills
-
-- **Mobile Development**: React Native, Android Studio, Java, Kotlin, Mapbox  
-- **Frontend**: React JS, HTML, CSS, acJavaScript, TypeScript  
-- **Backend**: Node.js, Express.js  
-- **Databases**: SQLite, RealmDB  
-- **APIs & Integration**: RESTful APIs, JSON, Web Services  
-- **Tools**: Git, NFC, QR Code Integration, Offline Support  
-- **Soft Skills**: Communication, Collaboration, Problem-Solving, Adaptability, Research & Analytical Thinking  
-- **Languages**: Indonesian (Native), English (Professional)
+- Interested in mobile application development  
+- Currently working with React Native  
+- IoT enthusiast  
 
 ---
 
-## 💬 Languages & Technologies I Use
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,13 +28,13 @@ I'm a **Motivated Application Developer** with hands-on experience in **mobile d
 
 ---
 
-## 🔥 Most Used Languages
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ttarreuu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarahanifan)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tarrrrrrrrrra)  
