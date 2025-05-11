@@ -2,15 +2,6 @@
 
 ---
 
-## 💫 About Me:
-
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/smartphone.png" width="16"/> **Interested in mobile application development**  
-- <img src="https://img.icons8.com/ios-filled/20/61DAFB/react-native.png" width="16"/> **Currently working with React Native**  
-- <img src="https://img.icons8.com/ios-filled/20/00979D/arduino.png" width="16"/> **IoT enthusiast**
-
----
-
-
 ## 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
