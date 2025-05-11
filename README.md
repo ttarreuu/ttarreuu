@@ -9,7 +9,6 @@ I'm **Tara Hanifan**, an Application Developer passionate about building interac
 - 💡 Enjoy solving real world problems through technology and design  
 - 📍 Based in Jakarta, Indonesia | 🌐 Open to collaboration and learning opportunities
 
-
 #### 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,8 +26,9 @@ I'm **Tara Hanifan**, an Application Developer passionate about building interac
 ![Mapbox](https://img.shields.io/badge/-Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 #### 📊 Most Used Languages
 
