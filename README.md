@@ -9,7 +9,6 @@ Hi, I'm **Tara Hanifan**, a front-end developer passionate about building intera
 - 💡 Enjoy solving real-world problems through technology and design  
 - 📍 Based in Jakarta, Indonesia | 🌐 Open to collaboration and learning opportunities
 
----
 
 #### 🧰 Tech Stack
 
@@ -29,24 +28,17 @@ Hi, I'm **Tara Hanifan**, a front-end developer passionate about building intera
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
+
 
 #### 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ttarreuu&layout=compact&theme=tokyonight&hide_border=true)
 
----
+
 
 #### 🌐 Connect with Me
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/tarahanifan)
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40">](https://instagram.com/tarrrrrrrrrra)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40">](mailto:tarahanifanfaza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://linkedin.com/in/tarahanifan)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20)](https://instagram.com/tarrrrrrrrrra)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:tarahanifanfaza@gmail.com)
 
----
-
-#### 🖼️ Animation
-
-![Tech Badge Animation](https://github.com/ttarreuu/ttarreuu/raw/main/animated-tech-badge.gif)
-
----
