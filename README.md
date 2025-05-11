@@ -1,8 +1,17 @@
-![Header](public/github-header-image.png)
+# 👋 Hello, Welcome to My Profile!
+
+#### 👩‍💻 About Me
+
+Hi, I'm **Tara Hanifan**, a front-end developer passionate about building interactive mobile apps and user-centered experiences.
+
+- 🎯 Focused on Application Development  
+- 🌱 Currently expanding skills in React Native and .NET Framework  
+- 💡 Enjoy solving real-world problems through technology and design  
+- 📍 Based in Jakarta, Indonesia | 🌐 Open to collaboration and learning opportunities
 
 ---
 
-## 💻 Tech Stack
+#### 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,11 +31,22 @@
 
 ---
 
-## Most Used Languages
+#### 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ttarreuu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarahanifan) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tarrrrrrrrrra) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarahanifanfaza@gmail.com)
+#### 🌐 Connect with Me
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/tarahanifan)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40">](https://instagram.com/tarrrrrrrrrra)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40">](mailto:tarahanifanfaza@gmail.com)
+
+---
+
+#### 🖼️ Animation
+
+![Tech Badge Animation](https://github.com/ttarreuu/ttarreuu/raw/main/animated-tech-badge.gif)
+
+---
