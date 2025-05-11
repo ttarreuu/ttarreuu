@@ -2,20 +2,17 @@
 
 📍 Jakarta, Indonesia
 
+![Header](public/github-header-image.png)
+
 ---
 
 I'm a **Motivated Application Developer** with hands-on experience in **mobile development using React Native**. Passionate about creating efficient, user-friendly applications with a strong interest in **mobile and IoT systems**. Skilled in the full development lifecycle, from ideation to deployment, and thrive in collaborative team settings.
 
-🎓 **Bachelor of Computer Science**  
-**Bina Nusantara University** – GPA: 3.80 / 4.00  
-(Graduated in 3.5 years – Awaiting Ceremony)
-
 ---
-
 ## 🧠 Technical Skills
 
 - **Mobile Development**: React Native, Android Studio, Java, Kotlin, Mapbox  
-- **Frontend**: React JS, HTML, CSS, JavaScript, TypeScript  
+- **Frontend**: React JS, HTML, CSS, acJavaScript, TypeScript  
 - **Backend**: Node.js, Express.js  
 - **Databases**: SQLite, RealmDB  
 - **APIs & Integration**: RESTful APIs, JSON, Web Services  
