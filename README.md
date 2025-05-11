@@ -39,6 +39,6 @@ I'm **Tara Hanifan**, an Application Developer passionate about building interac
 #### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://linkedin.com/in/tarahanifan)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20)](https://instagram.com/tarrrrrrrrrra)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20)](https://www.instagram.com/tarrrrrrrrrrrrrrrrrrrrrrrra)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:tarahanifanfaza@gmail.com)
 
