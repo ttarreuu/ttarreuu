@@ -2,11 +2,12 @@
 
 ---
 
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/smartphone.png" width="16"/> Interested in **mobile application development**  
-- ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) Currently working with **React Native**  
-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) **IoT enthusiast**
+- <img src="https://img.icons8.com/ios-filled/20/ffffff/smartphone.png" width="16"/> **Interested in mobile application development**  
+- <img src="https://img.icons8.com/ios-filled/20/61DAFB/react-native.png" width="16"/> **Currently working with React Native**  
+- <img src="https://img.icons8.com/ios-filled/20/00979D/arduino.png" width="16"/> **IoT enthusiast**
 
 ---
+
 
 ## Skills
 
