@@ -2,9 +2,9 @@
 
 ---
 
-- Interested in mobile application development  
-- Currently working with React Native  
-- IoT enthusiast  
+- ![Mobile](https://img.icons8.com/ios-filled/20/000000/smartphone.png) Interested in **mobile application development**  
+- ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) Currently working with **React Native**  
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) **IoT enthusiast**
 
 ---
 
