@@ -2,7 +2,7 @@
 
 #### 👩‍💻 About Me
 
-I'm **Tara Hanifan**, an Application Developer passionate about building interactive mobile apps and user centered experiences.
+I'm **Tara Hanifan Faza**, an Application Developer passionate about building interactive mobile apps and user centered experiences.
 
 - 🎯 Focused on Application Development  
 - 🌱 Currently expanding skills in React and .NET Framework  
