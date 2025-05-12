@@ -5,7 +5,7 @@
 I'm **Tara Hanifan**, an Application Developer passionate about building interactive mobile apps and user centered experiences.
 
 - 🎯 Focused on Application Development  
-- 🌱 Currently expanding skills in React Native and .NET Framework  
+- 🌱 Currently expanding skills in React and .NET Framework  
 - 💡 Enjoy solving real world problems through technology and design  
 - 📍 Based in Jakarta, Indonesia | 🌐 Open to collaboration and learning opportunities
 
